@@ -1,9 +1,9 @@
 {
-    "name": "UHC",
+    "name": "The Parent Company",
     "imageUrl": "img/US.png",
     "area": "Finance and Insurance",
     "profileUrl": "http://example.com/employee/profile",
-    "office": "7K15xxxxxx office",
+    "office": "DIA: $1,100,000<br>FDI: $50,000<br>OR: $100,000<br>Value Added: $2,000,000<br>Import of Goods: $20,000<br>Export of Goods: $30,000<br>Import of Services: $40,000<br>Export of Services:$30,000<br>Employment: 1,000",
     "tags": 0.25,
     "isLoggedUser": false,
     "unit": {
@@ -13,7 +13,7 @@
     "positionName": "6K12000001",
     "children": [
         {
-            "name": "Microsoft United States International",
+            "name": "Child Company with a very long name",
             "imageUrl": "img/AU.png",
             "area": "Wholesale Trade",
             "profileUrl": "http://example.com/employee/profile",
@@ -31,7 +31,7 @@
                     "imageUrl": "img/SG.png",
                     "area": "Wholesale Trade",
                     "profileUrl": "http://example.com/employee/profile",
-                    "office": "xxxxx",
+                    "office": "DIA: $1,100,000<br>FDI: $50,000<br>OR: $100,000<br>Value Added: $2,000,000<br>Import of Goods: $20,000<br>Export of Goods: $30,000<br>Import of Services: $40,000<br>Export of Services:$30,000<br>Employment: 1,000",
                     "tags": 0.8,
                     "isLoggedUser": false,
                     "unit": {
@@ -46,7 +46,7 @@
                             "imageUrl": "img/SG.png",
                             "area": "Transport and Storage",
                             "profileUrl": "http://example.com/employee/profile",
-                            "office": "xxxxx",
+                            "office": "DIA: $1,100,000<br>FDI: $50,000<br>OR: $100,000<br>Value Added: $2,000,000<br>Import of Goods: $20,000<br>Export of Goods: $30,000<br>Import of Services: $40,000<br>Export of Services:$30,000<br>Employment: 1,000",
                             "tags": 0.2,
                             "isLoggedUser": false,
                             "unit": {
